@@ -1,0 +1,58 @@
+body {
+    background-color: rgba(243,234,227,255);
+}
+
+.perfume-img{
+    height: 80vh;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.brand{
+    letter-spacing: 7px;
+    color: grey;
+}
+
+.headding{
+    line-height: 38px;
+}
+
+.description{
+    width: 270px;
+    word-spacing: 10px;
+}
+
+.price-1{
+    font-size: 40px;
+    font-weight: 600;
+    color:rgba(61,129,104,255) ;
+    margin-right: 30px;
+}
+
+button{
+    background-color:rgba(61,129,104,255) ;
+    border: none;
+    width: 85%;
+    height: 7vh;
+    color: white;
+    border-radius: 10px;
+}
+
+.content{
+    height: 75.4vh;
+    background-color: white;
+    width:25%;
+    padding-left: 3%;
+    padding-right: 5%;
+    padding-top: 3%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 8vh;
+    margin-left: 25vw;
+
+}
